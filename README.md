@@ -77,6 +77,14 @@ The Power BI dashboard contains:
 * Age Analysis
 * Satisfaction Analysis
 
+## Dashboard Preview
+
+![Overview Dashboard](Screenshots/Customer_Overview_Dashboard.png)
+
+![Customer Segments](Screenshots/Cluster_Segments_Dashboard.png)
+
+![Demographics Dashboard](Screenshots/Demographics_Dashboard.png)
+
 ## Key Insights
 
 * Premium customers contribute the highest spending.
